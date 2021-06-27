@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**luksrocha/luksrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas, I'm from brazil , and I'm majoring in Systems Analysis and Development, and working as a Developer since early 2020.
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌏 "Only knowledge brings power" 🧠
+
+- 📍 From São Paulo living in Fortaleza-CE
+- 👨🏽‍💻 Full-Stack Developer at [Certsys](https://www.certsys.com.br/)
+- 💻 Passionate about JavaScript (Node and React 💛)
+
+React me out 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Rocha-0E76A8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rocha-a723b8150/)](https://www.linkedin.com/in/lucas-rocha-a723b8150/) [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Rocha-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luskarocha_/)](https://www.instagram.com/luskarocha_/)
