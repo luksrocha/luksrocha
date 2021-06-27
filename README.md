@@ -10,6 +10,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 👨🏽‍💻 Full-Stack Developer at [Certsys](https://www.certsys.com.br/)
 - 💻 Passionate about JavaScript (Node and React 💛)
 
-React me out 👇
+Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Rocha-0E76A8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rocha-a723b8150/)](https://www.linkedin.com/in/lucas-rocha-a723b8150/) [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Rocha-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luskarocha_/)](https://www.instagram.com/luskarocha_/)
