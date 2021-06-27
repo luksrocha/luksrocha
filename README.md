@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Lucas, I'm from brazil , and I'm majoring in Systems Analysis and Development, and working as a Developer since early 2020.
+My name is Lucas, I'm from brazil , and I'm majoring in Systems Analysis and Development and working as a Developer since early 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
