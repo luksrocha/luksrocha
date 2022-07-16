@@ -7,8 +7,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 #### 🌏 "Only knowledge brings power" 🧠
 
 - 📍 From São Paulo living in Fortaleza-CE
-- 👨🏽‍💻 Full-Stack Developer
-- 💻 Passionate about JavaScript (Node and React 💛)
+- 👨🏽‍💻 Frontend Engineer
+- 💻 Passionate about JavaScript 💛
 
 Reach me out 👇
 
